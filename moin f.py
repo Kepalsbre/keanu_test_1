@@ -1,1 +1,1 @@
-print("moin herr fuks")
+print("Herr Fuchs, keine show!")
